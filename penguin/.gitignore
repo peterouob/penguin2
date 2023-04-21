@@ -2,7 +2,7 @@
 .DS_Store
 
 # IDE Files
-./idea
+.idea/
 
 
 # Logs
