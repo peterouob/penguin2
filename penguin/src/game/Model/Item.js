@@ -12,7 +12,6 @@ export default class Item{
         displayName: string,
         description: string
         ) {
-
         this.id = id;
         this.displayName = displayName;
         this.description = description;

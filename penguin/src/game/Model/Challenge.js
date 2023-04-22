@@ -2,7 +2,7 @@ import Requirement from "./Requirement.js";
 
 export default class Challenge{
 
-    id: String;
+    id: string;
 
     title: String;
     description: String;
